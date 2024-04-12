@@ -11,7 +11,7 @@ jsconfig.json
 
 # Xcode
 #
-build/
+# build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -74,4 +74,4 @@ android/keystores/debug.keystore
 # Turborepo
 .turbo/
 
-/build
+# /build
