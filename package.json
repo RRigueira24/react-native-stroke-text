@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "React Native Stroke/Outline Text",
   "main": "build/index.js",
+  "module": "build/index.js",
   "source": "./src/",
   "author": "Charmy Inc. (https://github.com/charmy)",
   "license": "MIT",
